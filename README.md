@@ -4,11 +4,11 @@ Basically, project to manage companies and their employees.
 ```shell
 # environment
 $ php artisan about --only=environment
-Laravel Version ......................................................................... 11.23.5
-PHP Version .............................................................................. 8.3.11
-Composer Version .......................................................................... 2.7.9
-Timezone .................................................................................... UTC
-Locale ....................................................................................... en
+Laravel Version 11.23.5
+PHP Version 8.3.11
+Composer Version 2.7.9
+Timezone UTC
+Locale en
 
 # web server
 $ nginx -V
