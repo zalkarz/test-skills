@@ -22,7 +22,6 @@ services:
       - laravel
 
   mysql:
-    platform: linux/amd64
     image: mysql:8.0.25
     container_name: 'mysql_app'
     restart: unless-stopped
